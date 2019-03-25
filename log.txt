@@ -1,0 +1,323 @@
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Oklahoma City, United States
+Date 03/23/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale, United States
+Date 03/30/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver, United States
+Date 04/01/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Salt Lake City, United States
+Date 04/03/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Dallas, United States
+Date 03/24/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Vancouver, Canada
+Date 04/05/2019
+------------------------------------------------------------
+
+Name of the Venue: Pepsi Live at Rogers Arena
+Venue Location: Vancouver, Canada
+Date 04/06/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Portland, United States
+Date 04/08/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Sacramento, United States
+Date 04/10/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Las Vegas, United States
+Date 04/12/2019
+------------------------------------------------------------
+
+Name of the Venue: Honda Center
+Venue Location: Anaheim, United States
+Date 04/13/2019
+------------------------------------------------------------
+
+Name of the Venue: Staples Center
+Venue Location: Los Angeles, United States
+Date 04/15/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Jose, United States
+Date 04/17/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Los Angeles, United States
+Date 04/19/2019
+------------------------------------------------------------
+
+Name of the Venue: Little Caesars Arena 
+Venue Location: Detroit, United States
+Date 04/26/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Detroit, United States
+Date 04/27/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, United States
+Date 04/30/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Milwaukee, United States
+Date 05/02/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, United States
+Date 05/04/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, United States
+Date 05/05/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Omaha, United States
+Date 05/07/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, United States
+Date 05/09/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, United States
+Date 05/11/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Toronto, Canada
+Date 05/13/2019
+------------------------------------------------------------
+
+Name of the Venue: Scotiabank Arena
+Venue Location: Toronto, Canada
+Date 05/14/2019
+------------------------------------------------------------
+
+Name of the Venue: Bell Centre 
+Venue Location: Montreal, Canada
+Date 05/17/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Montreal, Canada
+Date 05/18/2019
+------------------------------------------------------------
+
+Name of the Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York, United States
+Date 05/21/2019
+------------------------------------------------------------
+
+Name of the Venue: Madison Square Garden
+Venue Location: New York, United States
+Date 05/22/2019
+------------------------------------------------------------
+
+Name of the Venue: Johan Cruijff Stadium
+Venue Location: Amsterdam, Netherlands
+Date 06/16/2019
+------------------------------------------------------------
+
+Name of the Venue: RDS
+Venue Location: Dublin, Ireland
+Date 06/18/2019
+------------------------------------------------------------
+
+Name of the Venue: Principality Stadium
+Venue Location: Cardiff, United Kingdom
+Date 06/20/2019
+------------------------------------------------------------
+
+Name of the Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Date 06/22/2019
+------------------------------------------------------------
+
+Name of the Venue: Hampden Park
+Venue Location: Glasgow, United Kingdom
+Date 06/23/2019
+------------------------------------------------------------
+
+Name of the Venue: Anfield Stadium
+Venue Location: Liverpool, United Kingdom
+Date 06/25/2019
+------------------------------------------------------------
+
+Name of the Venue: Rock Werchter Festival 
+Venue Location: Werchter, Belgium
+Date 06/27/2019
+------------------------------------------------------------
+
+Name of the Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Date 06/29/2019
+------------------------------------------------------------
+
+Name of the Venue: Wembley Stadium
+Venue Location: London, United Kingdom
+Date 06/30/2019
+------------------------------------------------------------
+
+Name of the Venue: La Defense Arena
+Venue Location: Paris, France
+Date 07/03/2019
+------------------------------------------------------------
+
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne, Germany
+Date 07/05/2019
+------------------------------------------------------------
+
+Name of the Venue: Rhein Energie Stadion
+Venue Location: Cologne, Germany
+Date 07/06/2019
+------------------------------------------------------------
+
+Name of the Venue: Volksparkstadion
+Venue Location: Hamburg, Germany
+Date 07/08/2019
+------------------------------------------------------------
+
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Stuttgart, Germany
+Date 07/10/2019
+------------------------------------------------------------
+
+Name of the Venue: HDI Arena
+Venue Location: Hannover, Germany
+Date 07/12/2019
+------------------------------------------------------------
+
+Name of the Venue: Olympiastadion Berlin
+Venue Location: Berlin, Germany
+Date 07/14/2019
+------------------------------------------------------------
+
+Name of the Venue: PGE Narodowy Stadium
+Venue Location: Warsaw, Poland
+Date 07/20/2019
+------------------------------------------------------------
+
+Name of the Venue: Commerzbank Arena
+Venue Location: Frankfurt, Germany
+Date 07/22/2019
+------------------------------------------------------------
+
+Name of the Venue: Ernst Happel Stadium
+Venue Location: Wien, Austria
+Date 07/24/2019
+------------------------------------------------------------
+
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Date 07/26/2019
+------------------------------------------------------------
+
+Name of the Venue: Olympiastadion Munchen
+Venue Location: München, Germany
+Date 07/27/2019
+------------------------------------------------------------
+
+Name of the Venue: Letzigrund Stadium
+Venue Location: Zürich, Switzerland
+Date 07/30/2019
+------------------------------------------------------------
+
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm, Sweden
+Date 08/03/2019
+------------------------------------------------------------
+
+Name of the Venue: Telenor Arena
+Venue Location: Oslo, Norway
+Date 08/05/2019
+------------------------------------------------------------
+
+Name of the Venue: Malieveld Pavillion
+Venue Location: Den Haag, Netherlands
+Date 08/11/2019
+------------------------------------------------------------
+
+Name of the Venue: VELTINS-Arena
+Venue Location: Ge, Germany
+Date 08/09/2019
+------------------------------------------------------------
+
+Name of the Venue: Stadium Casa Arena
+Venue Location: Horsens, Denmark
+Date 08/07/2019
+------------------------------------------------------------
+
+Name of the Venue: Rock in Rio
+Venue Location: Rio De Janeiro, Brazil
+Date 10/05/2019
+------------------------------------------------------------
+
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+Artist Name: Ace of Base
+preview Link: Not available.
+------------------------------------------------------------
+
+Song Name: Yesterday - Remastered 2009
+Album Name: Help! (Remastered)
+Artist Name: The Beatles
+preview Link: Not available.
+------------------------------------------------------------
+
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes: 67%
+Production Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+
+Movie Title: The Great Gatsby
+Release Year: 2013
+IMDB Rating: 7.3
+Rotten Tomatoes: 48%
+Production Country: Australia, USA
+Language: English
+Plot: A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.
+Actors: Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley
+------------------------------------------------------------
+
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+preview Link: Not available.
+------------------------------------------------------------
+

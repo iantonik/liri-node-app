@@ -32,7 +32,6 @@ var runFile = function () {
     fs.readFile('random.txt', 'utf8', (err, data) => {
         if (err) throw err;
         var parameters = data.split(",");
-        console.log(parameters)
         searchRequest = parameters[0].trim();
         searchCriteria = parameters[1].trim();
         runService(searchRequest, searchCriteria);
@@ -50,7 +49,7 @@ var sportifySong = function (songTitle) {
         songTitle = 'Ace of Base - The Sign';
     } 
 
-    spotify.search({ type: 'track', query: songTitle, limit: 1 }, function (err, data) {
+    spotify.search({ type: 'track', query: songTitle, limit: 5 }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
@@ -91,8 +90,7 @@ var findConcert = function (artist) {
 
                 var eventDetails = [
                     "Name of the Venue: " + event.venue.name,
-                    "Venue City: " + event.venue.city,
-                    "Venue Country " + event.venue.country,
+                    "Venue Location: " + event.venue.city + ", " + event.venue.country,
                     "Date " + moment(event.datetime).format("MM/DD/YYYY")
                 ].join("\n")
 
@@ -114,7 +112,7 @@ var findConcert = function (artist) {
 var findMovieDetails = function (movieTitle) {
 
     if(!movieTitle){
-        searchCriteria = 'Mr. Nobody';
+        movieTitle = 'Mr. Nobody';
     } 
 
     axios({
